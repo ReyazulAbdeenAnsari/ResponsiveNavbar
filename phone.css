@@ -1,0 +1,60 @@
+/* navbar responsive */
+body{
+    background-repeat: repeat;
+}
+header{
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    margin-bottom: 17px;
+}
+header .navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn{
+    padding: 10px 45px;
+}
+section{
+    margin: 0px 0px;
+    width: 100%;
+}
+footer{
+    margin-top: 10px;
+}
+footer .h2{
+    font-size: 15px;
+    text-align: center;
+}
+.content{
+    height: fit-content;
+    padding: 25px 0px;
+}
+.content .box{
+    margin: 15px 0px;
+}
+.contact-us{
+    position: relative;
+    margin-bottom: 14px;
+
+}
+.contact-us .form{
+    position: relative;
+}
+.contact-us .heading{
+    position: relative;
+    margin: 0px 0px;
+}
+.heading h1{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.form input{
+    padding: 13px 40px;
+    font-size: 16px;
+}
+.form .btn2{
+    padding: 8px 0px;
+}
